@@ -2,7 +2,7 @@
 
 ### Hey!
 
-I'm Full stack developer who can solve any __problem__ for a __modest fee__.
+I'm Full stack developer who can solve ___any problem___ for a ___modest fee___.
 
 <a href="https://www.linkedin.com/in/ytalo-mariano-torres-leyva-913b26247/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
