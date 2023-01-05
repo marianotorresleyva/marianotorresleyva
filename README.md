@@ -4,6 +4,9 @@
 
 I'm Full stack developer who is passionate about **GNU/Linux** and likes to **write code**.
 
-[![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/ytalo-mariano-torres-leyva-913b26247/)]
+<a href="https://www.linkedin.com/in/ytalo-mariano-torres-leyva-913b26247/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+     alt="Grapefruit slice atop a pile of other slices">
+</a>
 
 <br>
