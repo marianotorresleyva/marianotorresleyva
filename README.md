@@ -9,4 +9,9 @@ I'm Full stack developer who can solve ___any problem___ for a ___modest fee___.
      alt="Grapefruit slice atop a pile of other slices">
 </a>
 
+<a href="https://marianotorresleyva.wordpress.com/">
+  <img src="https://img.shields.io/badge/Portfolio-21759b?style=for-the-badge&logo=wordpress&logoColor=white"
+     alt="Grapefruit slice atop a pile of other slices">
+</a>
+
 <br>
